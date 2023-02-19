@@ -11,6 +11,7 @@ public class Cogtevran extends Hogwarts{
         this.wit = wit;
     }
 
+
     public int getMind() {
         return mind;
     }

@@ -10,6 +10,7 @@ public class Hufflepuff extends Hogwarts{
         this.honesty = honesty;
     }
 
+
     public int getHardWork() {
         return hardWork;
     }

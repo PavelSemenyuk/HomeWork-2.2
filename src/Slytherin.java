@@ -15,6 +15,7 @@ public class Slytherin extends Hogwarts {
         this.lustForPower = lustForPower;
     }
 
+
     public int getCunning() {
         return cunning;
     }

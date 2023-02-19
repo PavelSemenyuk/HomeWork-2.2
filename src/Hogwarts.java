@@ -9,6 +9,7 @@ public class Hogwarts {
         this.transgressionDistance = transgressionDistance;
     }
 
+
     public String getName() {
         return name;
     }
